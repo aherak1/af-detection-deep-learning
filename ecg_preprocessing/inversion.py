@@ -8,7 +8,7 @@ import h5py
 from matplotlib.patches import Rectangle
 
 # Paths
-data_dir = '/Users/adnaherak/Downloads/af-classification-from-a-short-single-lead-ecg-recording-the-physionet-computing-in-cardiology-challenge-2017-1.0.0/training2017'
+data_dir = '/Users/ajlaherak/Downloads/af-classification-from-a-short-single-lead-ecg-recording-the-physionet-computing-in-cardiology-challenge-2017-1.0.0/training2017'
 reference_csv = os.path.join(data_dir, "REFERENCE.csv")
 output_h5 = "corrected_ecg_signals_before_filtering.h5"
 
