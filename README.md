@@ -22,7 +22,7 @@ Experiments were conducted using Poincaré and Hénon plots, recurrent represent
 
 These findings confirm the effectiveness of deep convolutional networks in extracting relevant features from nonlinear and recurrent ECG representations, and highlight the benefit of multimodal integration for generalization and accurate rhythm classification.
 
-**Keywords:** automatic ECG signal classification, atrial fibrillation, Poincaré plot, Hénon plot, recurrent representations, multimodal models
+**Keywords:** automatic ECG signal classification, atrial fibrillation, Poincaré plot, Hénon plot, recurrent representations, multimodal models, Grad-CAM interpretation
 
 ---
 
@@ -34,3 +34,4 @@ This repository contains code, data processing scripts, and models developed for
 2. Generation of **nonlinear representations** (Poincaré plots, Hénon maps, recurrent plots).
 3. Training of **deep convolutional neural networks** for arrhythmia classification.
 4. Implementation of **multimodal fusion strategies** to integrate complementary features.
+5. **Visual interpretation of model decisions** using Grad-CAM.
