@@ -1,6 +1,6 @@
 # Detection of Arrhythmias from Nonlinear Features of ECG Signals Using Deep Neural Networks
 
-**Master Thesis **  
+**Master Thesis**  
 **Student:** Ajla Herak  
 **Mentor:** R. Prof. Dr. Dušanka Bošković, Dipl. Ing. El.  
 **Sarajevo, September 2025**
