@@ -37,5 +37,4 @@ This repository contains code, data processing scripts, and models developed for
 
 ---
 
-## Repository Structure
 
