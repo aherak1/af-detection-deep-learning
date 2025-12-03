@@ -17,7 +17,7 @@ decomposition_level = 5  # Reduced from 9 to 5 for faster processing
 max_signals_per_class = 2  # Process fewer signals for testing
 
 # Paths
-data_dir = '/Users/adnaherak/Downloads/af-classification-from-a-short-single-lead-ecg-recording-the-physionet-computing-in-cardiology-challenge-2017-1.0.0/training2017'
+data_dir = '/Users/ajlaherak/Downloads/af-classification-from-a-short-single-lead-ecg-recording-the-physionet-computing-in-cardiology-challenge-2017-1.0.0/training2017'
 reference_csv = os.path.join(data_dir, "REFERENCE.csv")
 
 def load_labels():
