@@ -34,7 +34,3 @@ This repository contains code, data processing scripts, and models developed for
 2. Generation of **nonlinear representations** (Poincaré plots, Hénon maps, recurrent plots).
 3. Training of **deep convolutional neural networks** for arrhythmia classification.
 4. Implementation of **multimodal fusion strategies** to integrate complementary features.
-
----
-
-
