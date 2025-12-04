@@ -1,3 +1,7 @@
+install.packages("devtools")
+devtools::install_github("constantino-garcia/nonlinearTseries")
+
+
 suppressMessages(library(nonlinearTseries))
 
 save_parameters <- function(class_name, chunk_size = 1000) {
